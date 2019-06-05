@@ -1,0 +1,19 @@
+{
+  "expand_tabs_on_save": true,
+  "font_face": "Hack",
+  "font_size": 11,
+  "ignore_whitespace_on_current_line": true,
+  "ignore_whitespace_only_lines": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "remove_trailing_whitespace_on_save": true,
+  "sublimelinter": false,
+  "tab_size": 2,
+  "theme": "Default.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true,
+  "word_wrap": true
+}
